@@ -5,6 +5,11 @@ Feel free to fork and enhance it.
 SobrCameraView for iOS enhanced
 ======================
 
+Just buy me a drink and I could do this all day. 
+
+http://paypal.me/larryburkas
+
+
 This is the original one, for more details and insatruction to deploy this, go this git
 https://github.com/softwarebrauerei/SobrCameraView-ios
 
